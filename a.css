@@ -1,0 +1,7 @@
+:root.light {
+  --background-color: #E5EAF5;
+}
+
+:root:not(.light) {
+  --background-color: #494E5F;
+}
